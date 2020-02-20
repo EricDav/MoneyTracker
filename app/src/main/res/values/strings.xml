@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Expenses Tracker</string>
+    <string name="title_person">Personal Expenses</string>
+    <string name="title_view">View Expenses</string>
+    <string name="title_business">Business Expenses</string>
+    <string-array name="expense_array">
+        <item>Personal Expenses</item>
+        <item>Business Expenses</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
